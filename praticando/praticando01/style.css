@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: rgb(6, 136, 250);
+    padding: 50px;
+    margin-top: -8px;
+    text-align: center;
+    color: rgb(255, 251, 0);
+}
+a{
+    text-decoration: none;
+}
+a.paginas{
+    color: white;
+    background-color: black;    
+}
+body{
+    background-color: rgb(212, 228, 253);
+    width: 500px;
+    background-color: rgb(184, 222, 255);
+    margin: auto;
+    box-shadow: 5px 5px 15px rgb(138, 166, 190);
+}
+
+h2,p,a, address{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.nome{
+    margin-right: -1px;
+    margin-left: -1px;
+}
+h2{
+    color: rgb(182, 182, 0);
+}
